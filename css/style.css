@@ -1,7 +1,14 @@
 header {
-    height: 200px;
+    height: 100px;
     background-image: url(../img/pattern.png);
     background-color: cornflowerblue;
+}
+
+
+.logo{
+    position: absolute;
+    top: 8%;
+
 }
 
 h1 {
